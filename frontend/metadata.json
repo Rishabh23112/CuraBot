@@ -1,0 +1,8 @@
+{
+  "name": "CuraBot",
+  "description": "A compassionate AI-powered mental health companion featuring a serene glassmorphic design, progress tracking, and secure chat capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
