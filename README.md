@@ -22,6 +22,17 @@
 
 ---
 
+## Video & Images
+
+
+https://github.com/user-attachments/assets/c9bdf878-ece2-46ed-8e56-c3e7720d0078
+
+![telegrambot](https://github.com/user-attachments/assets/5277644b-7762-45dd-94ae-9eb7f915303d)
+![sms](https://github.com/user-attachments/assets/5d88ed16-f5d0-46a6-8442-47f6e5215977)
+
+
+
+
 ## 🛠️ Tech Stack
 
 ### **Frontend**
